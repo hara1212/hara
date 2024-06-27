@@ -1,0 +1,17 @@
+.container {
+    
+    width: 400px;
+    height: 80px;
+}
+ h1{
+    background-color: red;
+ }   
+
+ .container {
+    
+    width: 360px;
+    height: 70px;
+}
+ h2{
+    background-color: yellow;
+ }   
