@@ -11,6 +11,7 @@ body{
 }
 
 /* ここから処理を記述 */
+
 .bheader{
   display: flex;
   margin: 0;
@@ -28,8 +29,6 @@ body{
   width: 80%;
   background-color: aquamarine;
 }
-
-
 .sidebar  ul{
   margin-left: 3rem;
   margin-top: 5rem;
@@ -43,12 +42,14 @@ body{
   position: relative;
 }
 
+
+
 .h1{
   text-align: center;
 }
 
 .mainColumnTop{
-  padding: 0 10%;
+  padding: 0 5%;
   text-align: center;
 }
 
@@ -79,9 +80,20 @@ body{
   border-top: 0.5px solid #000000;
   font-weight: bold;
   padding: 1rem 0;
+  
+
 }
 
 
 .box7{
   margin-left: 4rem;
+}
+img {
+  width: 100%;
+}
+
+@media screen and (min-width: 960px) {
+  img {
+    max-width: 960px;
+  }
 }
