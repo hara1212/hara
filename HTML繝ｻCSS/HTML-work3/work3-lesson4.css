@@ -80,16 +80,14 @@ body{
   border-top: 0.5px solid #000000;
   font-weight: bold;
   padding: 1rem 0;
-  
 
 }
-
 
 .box7{
   margin-left: 4rem;
 }
 img {
-  width: 100%;
+  width: 90%;
 }
 
 @media screen and (min-width: 960px) {
