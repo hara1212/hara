@@ -8,4 +8,4 @@ console.log("0点だって皆で取れば平均点だ by誰か");
 
 
 // 以下の行をコメントアウトしてください
-console.log("この行をコメントアウトしてください");
+console.log("Center Force");
